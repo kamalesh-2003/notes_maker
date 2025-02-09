@@ -98,6 +98,6 @@ The `manifest.json` file defines permissions and scripts:
 ---
 
 ### 🔗 Connect with Me
-- GitHub: [yourusername](https://github.com/kamalesh-2003)
-- LinkedIn: [Your Name](https://linkedin.com/in/kamalesh-arugunt)
+- GitHub: [kamalesh-2003](https://github.com/kamalesh-2003)
+- LinkedIn: [kamalesh-arugunta](https://linkedin.com/in/kamalesh-arugunt)
 

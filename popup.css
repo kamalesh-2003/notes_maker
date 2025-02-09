@@ -1,0 +1,56 @@
+/* General popup styling */
+body {
+    width: 320px;
+    padding: 15px;
+    font-family: Arial, sans-serif;
+    background-color: #f9f9f9;
+}
+
+/* Header */
+h2 {
+    text-align: center;
+    font-size: 18px;
+    color: #333;
+}
+
+/* Buttons */
+button {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: none;
+    cursor: pointer;
+    font-size: 14px;
+    border-radius: 5px;
+}
+
+/* Primary button */
+#summarizeBtn {
+    background-color: #007bff;
+    color: white;
+}
+
+#summarizeBtn:hover {
+    background-color: #0056b3;
+}
+
+/* Secondary button */
+#downloadBtn, #emailBtn {
+    background-color: #28a745;
+    color: white;
+}
+
+#downloadBtn:hover, #emailBtn:hover {
+    background-color: #1e7e34;
+}
+
+/* Summary display */
+#summaryContainer {
+    margin-top: 10px;
+    padding: 10px;
+    background: white;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    max-height: 150px;
+    overflow-y: auto;
+}

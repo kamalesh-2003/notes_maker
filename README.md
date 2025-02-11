@@ -3,11 +3,11 @@
 A powerful Chrome extension that allows users to extract text from selected content or an entire webpage, summarize it using an LLM API, and generate a downloadable PDF. Users can also email the summarized content.
 
 ## 🚀 Features
-- Extract selected text from a webpage
-- Extract full-page text
-- Summarize text using an LLM API
-- Generate a PDF of the summarized content
-- Option to email the summary
+- Develop a feature to selectively extract text from specific sections of a webpage as designated by the user.
+- Implement a functionality that allows for the retrieval of all textual content from an entire webpage, capturing comprehensive information.
+- Utilize a large language model API to provide concise and coherent summaries of the extracted text, streamlining large amounts of data into digestible formats.
+- Integrate the ability to automatically generate a PDF document containing the summarized content, formatted for easy reading and sharing.
+- Include an option within the system to directly email the PDF summary to a specified recipient, enhancing user convenience and communication efficiency.
 
 ## 📂 Folder Structure
 ```

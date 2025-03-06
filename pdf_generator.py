@@ -22,4 +22,5 @@ def generate_pdf(summary):
     filepath = os.path.join(UPLOAD_FOLDER, filename)
     pdf.output(filepath)
 
+    # Return's the filename
     return filename

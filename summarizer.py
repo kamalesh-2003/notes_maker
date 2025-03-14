@@ -1,7 +1,7 @@
 import google.generativeai as genai
 import os
 
-genai.configure(api_key= "AIzaSyDRh9DbuifNYTX5Fo-mooXKYEA-sgD9ir8")
+genai.configure(api_key= apikey)
 
 def summarize_text(text):
     """Uses Google Gemini AI to summarize text into study notes."""
